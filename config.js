@@ -39,7 +39,7 @@ function kyun(seconds){
 }
 					runtime = process.uptime()
 					teks = `${kyun(runtime)}`
-global.owner = ['17608914335', '0' , '436506665652696', '6283820073017', '6289637133848'] // Put your number here
+global.owner = ['17608914335', '0' , '436506665652696', '6282321720820', '6281376576713'] // Put your number here
 global.fake = ['17608914335', '0', '0', '0']
 global.fakeNum = ['17608914335','0' ]
 global.mods = [] // Want some help?
@@ -68,16 +68,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botwm = `©Ran_2022`//UBAH JADI NAMAMU
+global.botwm = `TEAMCREATORLOKPADI`//UBAH JADI NAMAMU
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
-global.packname =  `Ran`
-global.author = `Mitake`
-global.wait = 'Subscribe Ya\n bit.ly/Papah-Chan'
+global.packname =  `TEAMCREATORLOKPADI`
+global.author = `Muhammad Andriani`
+global.wait = 'BENTAR...'
 global.dga = 'Jika Ingin Membeli Limit\nSilahkan Ketik #buy 1'
 global.thumb = tum
 global.thumb2 = tum2
 global.thumb3 = tum3
-global.wm = `©Ran`
+global.wm = `TEAMCREATORLOKPADI`
 
 global.runtime = teks
 global.multiplier = 69 // The higher, The harder levelup
